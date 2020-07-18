@@ -1,2 +1,2 @@
 # python-selenium
-Python Selenium Test Automation Project 
+Python Selenium Automation Testing Project 
