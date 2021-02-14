@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-driver = webdriver.Chrome(executable_path=r'C:\\Users\OZ\\Downloads\\chromedriver_win32 (4)\\chromedriver.exe')
+driver = webdriver.Chrome(executable_path=r'F:\PROGRAMMING\SDET\chromedriver_win32\\chromedriver.exe')
 driver.get('https://formy-project.herokuapp.com/form')
 
 
